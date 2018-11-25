@@ -1,0 +1,11 @@
+{
+	"name": "hifi-typescript",
+	"version": "1.0.0",
+	"typescript": {
+		"definitions": [
+			"hifi.d.ts"
+		]
+	},
+	"main": "hifi.d.ts",
+	"typings": "index.d.ts"
+}
